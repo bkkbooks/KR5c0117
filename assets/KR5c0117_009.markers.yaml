@@ -30,6 +30,7 @@ markers:
   - {type: page-break, offset: 7, content: '', id: KR5c0117_CK-KZ_06p036b}
   - {type: page-break, offset: 7, content: '', id: KR5c0117_CK-KZ_06p037a}
   - {type: punctuation, offset: 10, content: (, id: KR5c0117_krp_009-bkkpn1}
+  - {type: voice, offset: 10, length: 10, name: note, id: n1}
   - {type: punctuation, offset: 15, content: /, id: KR5c0117_krp_009-bkkpn2}
   - {type: punctuation, offset: 20, content: ), id: KR5c0117_krp_009-bkkpn3}
   - {type: 'kr:newline', offset: 20, content: '
@@ -69,6 +70,7 @@ markers:
       ', id: KR5c0117_krp_009-bkkkrnewl8}
   - {type: line-break, offset: 105, content: '', id: KR5c0117_HFL_009-001a09}
   - {type: punctuation, offset: 119, content: (, id: KR5c0117_krp_009-bkkpn4}
+  - {type: voice, offset: 119, length: 6, name: note, id: n2}
   - {type: variant, offset: 121, length: 1, content: 一, CK-KZ: 又}
   - {type: variant, offset: 121, length: 1, content: 一, CK-KZ-jye: 又}
   - {type: variant, offset: 121, length: 1, content: 一, YP-C: 又}
@@ -3217,6 +3219,7 @@ markers:
   - {type: variant, offset: 5632, length: 30, content: 姦之印倏若飄鸞鶴拏亦作怒若鬥虎兕清若浴碧慘若夢紅擒縱大道渾淪, CK-KZ-jye: ''}
   - {type: variant, offset: 5632, length: 30, content: 姦之印倏若飄鸞鶴拏亦作怒若鬥虎兕清若浴碧慘若夢紅擒縱大道渾淪, YP-C: ''}
   - {type: punctuation, offset: 5641, content: (, id: KR5c0117_krp_009-bkkpn7}
+  - {type: voice, offset: 5641, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 5643, content: /, id: KR5c0117_krp_009-bkkpn8}
   - {type: punctuation, offset: 5644, content: ), id: KR5c0117_krp_009-bkkpn9}
   - {type: 'kr:newline', offset: 5647, content: '
@@ -3573,4 +3576,4 @@ markers:
 
       ', id: KR5c0117_krp_009-bkkkrnewl504}
   back: []
-hash: sha256:f9c9ee9fda447f32d813f40aedf9716142f6eef8ce655a18528d65750d1d7503
+hash: sha256:e6cfb68f553cd46af0a975ec8e4c1ce6098592f3d70ec8cb58631ccc01079bc3

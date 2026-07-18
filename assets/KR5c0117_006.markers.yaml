@@ -32,6 +32,7 @@ markers:
   - {type: page-break, offset: 7, content: '', id: KR5c0117_CK-KZ_06p011b}
   - {type: page-break, offset: 7, content: '', id: KR5c0117_CK-KZ_06p012a}
   - {type: punctuation, offset: 10, content: (, id: KR5c0117_krp_006-bkkpn1}
+  - {type: voice, offset: 10, length: 12, name: note, id: n1}
   - {type: punctuation, offset: 16, content: /, id: KR5c0117_krp_006-bkkpn2}
   - {type: punctuation, offset: 22, content: ), id: KR5c0117_krp_006-bkkpn3}
   - {type: 'kr:newline', offset: 22, content: '
@@ -1761,4 +1762,4 @@ markers:
       ', id: KR5c0117_krp_006-bkkkrnewl241}
   - {type: variant, offset: 3323, length: 0, content: '', CK-KZ-jye: 匕}
   back: []
-hash: sha256:cdc49a5a811f2cd4651a44414a318dfdc8cb7e4f0575724bb83e21394c773d77
+hash: sha256:9fa6ad641b41ce258bb9488b994d259cfe1ca2f5b67a925af69b1d17b6e1407f

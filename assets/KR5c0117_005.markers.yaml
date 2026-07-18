@@ -37,6 +37,7 @@ markers:
   - {type: variant, offset: 10, length: 2, content: 鑑者, CK-KZ: ''}
   - {type: variant, offset: 10, length: 2, content: 鑑者, CK-KZ-jye: ''}
   - {type: variant, offset: 10, length: 2, content: 鑑者, YP-C: ''}
+  - {type: voice, offset: 10, length: 8, name: note, id: n1}
   - {type: variant, offset: 13, length: 11, content: 也凡二十章關尹子曰心弊, CK-KZ: 蔽}
   - {type: variant, offset: 13, length: 11, content: 也凡二十章關尹子曰心弊, CK-KZ-jye: 蔽}
   - {type: variant, offset: 13, length: 11, content: 也凡二十章關尹子曰心弊, YP-C: 蔽}
@@ -47,6 +48,7 @@ markers:
       ', id: KR5c0117_krp_005-bkkkrnewl3}
   - {type: line-break, offset: 18, content: '', id: KR5c0117_HFL_005-001a04}
   - {type: punctuation, offset: 24, content: (, id: KR5c0117_krp_005-bkkpn4}
+  - {type: voice, offset: 24, length: 5, name: note, id: n2}
   - {type: variant, offset: 26, length: 1, content: 蔽, CK-KZ: 弊}
   - {type: variant, offset: 26, length: 1, content: 蔽, CK-KZ-jye: 弊}
   - {type: variant, offset: 26, length: 1, content: 蔽, YP-C: 弊}
@@ -2238,4 +2240,4 @@ markers:
       ', id: KR5c0117_krp_005-bkkkrnewl307}
   - {type: variant, offset: 4108, length: 0, content: '', CK-KZ-jye: 鑑}
   back: []
-hash: sha256:7b06df0f7ffcba4e7f2dcc7c6c17343fe0502e0d4299be3aa22cbb4d6b4e655a
+hash: sha256:1da9399df765d9a22b983b015bb0417cf814ca5fc4820fcb00e44a397ad32883

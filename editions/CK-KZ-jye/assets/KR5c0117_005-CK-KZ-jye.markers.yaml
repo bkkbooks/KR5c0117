@@ -96,6 +96,7 @@ markers:
   - {type: line-break, offset: 157, content: '', id: KR5c0117_CK-KZ_06p001a08}
   - {type: line-break, offset: 159, content: '', id: KR5c0117_CK-KZ_06p001a09}
   - {type: punctuation, offset: 159, content: (, id: KR5c0117_CK-KZ-jye_005-bkkpn26}
+  - {type: voice, offset: 159, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 164, content: ), id: KR5c0117_CK-KZ-jye_005-bkkpn27}
   - {type: punctuation, offset: 167, content: ，, id: KR5c0117_CK-KZ-jye_005-bkkpn28}
   - {type: punctuation, offset: 171, content: ，, id: KR5c0117_CK-KZ-jye_005-bkkpn29}
@@ -110,6 +111,7 @@ markers:
   - {type: punctuation, offset: 189, content: ；, id: KR5c0117_CK-KZ-jye_005-bkkpn33}
   - {type: line-break, offset: 189, content: '', id: KR5c0117_CK-KZ_06p001a12}
   - {type: punctuation, offset: 193, content: (, id: KR5c0117_CK-KZ-jye_005-bkkpn34}
+  - {type: voice, offset: 193, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 197, content: ), id: KR5c0117_CK-KZ-jye_005-bkkpn35}
   - {type: punctuation, offset: 198, content: ，, id: KR5c0117_CK-KZ-jye_005-bkkpn36}
   - {type: punctuation, offset: 202, content: ；, id: KR5c0117_CK-KZ-jye_005-bkkpn37}
@@ -1500,6 +1502,7 @@ markers:
   - {type: punctuation, offset: 3087, content: 。, id: KR5c0117_CK-KZ-jye_005-bkkpn594}
   - {type: line-break, offset: 3087, content: '', id: KR5c0117_CK-KZ_06p007b24}
   - {type: punctuation, offset: 3087, content: (, id: KR5c0117_CK-KZ-jye_005-bkkpn595}
+  - {type: voice, offset: 3087, length: 19, name: note, id: n3}
   - {type: punctuation, offset: 3090, content: 『, id: KR5c0117_CK-KZ-jye_005-bkkpn596}
   - {type: punctuation, offset: 3097, content: 』, id: KR5c0117_CK-KZ-jye_005-bkkpn597}
   - {type: punctuation, offset: 3099, content: ，, id: KR5c0117_CK-KZ-jye_005-bkkpn598}
@@ -2183,4 +2186,4 @@ markers:
 
       ', id: KR5c0117_CK-KZ-jye_005-bkkkrnewl233}
   back: []
-hash: sha256:047b29d693978d1a44f31b6d3c149b30db30a25f0848d2860bc0fbb3d15c9f73
+hash: sha256:a1acd500957c438e4dc2404b07061c5d615a213c6ac8aad99ad5ce23d65b532d

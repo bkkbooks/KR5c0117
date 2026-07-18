@@ -28,6 +28,7 @@ markers:
   - {type: line-break, offset: 7, content: '', id: KR5c0117_HFL_004-001a03}
   - {type: indent, offset: 7, content: 　　, id: KR5c0117_krp_004-bkkind2}
   - {type: punctuation, offset: 10, content: (, id: KR5c0117_krp_004-bkkpn1}
+  - {type: voice, offset: 10, length: 11, name: note, id: n1}
   - {type: substitution, offset: 14, original: 䰟, replacement: 魂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17553}}
   - {type: punctuation, offset: 16, content: /, id: KR5c0117_krp_004-bkkpn2}
   - {type: variant, offset: 17, length: 13, content: 凡十七章關尹子曰水可析可合, CK-KZ: ''}
@@ -957,6 +958,7 @@ markers:
   - {type: variant, offset: 2014, length: 4, content: 一本作名, CK-KZ: ''}
   - {type: variant, offset: 2014, length: 4, content: 一本作名, CK-KZ-jye: ''}
   - {type: variant, offset: 2014, length: 4, content: 一本作名, YP-C: ''}
+  - {type: voice, offset: 2014, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 2016, content: /, id: KR5c0117_krp_004-bkkpn5}
   - {type: punctuation, offset: 2018, content: ), id: KR5c0117_krp_004-bkkpn6}
   - {type: 'kr:newline', offset: 2031, content: '
@@ -2364,4 +2366,4 @@ markers:
   - {type: variant, offset: 4562, length: 0, content: '', CK-KZ-jye: 金一與四同情爲一五戊土居}
   - {type: variant, offset: 4562, length: 0, content: '', YP-C: 金一與四同情爲一五戊土居}
   back: []
-hash: sha256:c6e0516c2615cc403b4b7e6d4f34cd7153b66fa7ace7901d0769d6642cec95a5
+hash: sha256:c81993894a0f2ca23e27565dc5501d515e2f70be2192dab768f8615f210067f4

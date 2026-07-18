@@ -26,6 +26,7 @@ markers:
   - {type: line-break, offset: 7, content: '', id: KR5c0117_HFL_003-001a03}
   - {type: indent, offset: 7, content: 　　, id: KR5c0117_krp_003-bkkind2}
   - {type: punctuation, offset: 10, content: (, id: KR5c0117_krp_003-bkkpn1}
+  - {type: voice, offset: 10, length: 11, name: note, id: n1}
   - {type: variant, offset: 15, length: 84, content: 也凡二十七章關尹子曰聖人之治天下不我賢愚故因人之賢而賢之因人之愚而愚之不我是非故因事之是而是之因事之非而非之知古今之大同故或先古或先今知内外之大同故或先内或先外天下之物, CK-KZ: 志於道}
   - {type: variant, offset: 15, length: 84, content: 也凡二十七章關尹子曰聖人之治天下不我賢愚故因人之賢而賢之因人之愚而愚之不我是非故因事之是而是之因事之非而非之知古今之大同故或先古或先今知内外之大同故或先内或先外天下之物, CK-KZ-jye: 志於道}
   - {type: variant, offset: 15, length: 84, content: 也凡二十七章關尹子曰聖人之治天下不我賢愚故因人之賢而賢之因人之愚而愚之不我是非故因事之是而是之因事之非而非之知古今之大同故或先古或先今知内外之大同故或先内或先外天下之物, YP-C: 志於道}
@@ -499,6 +500,7 @@ markers:
   - {type: line-break, offset: 1276, content: '', id: KR5c0117_HFL_003-005a08}
   - {type: substitution, offset: 1283, original: 螘, replacement: 蟻, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19675}}
   - {type: punctuation, offset: 1286, content: (, id: KR5c0117_krp_003-bkkpn4}
+  - {type: voice, offset: 1286, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 1288, content: /, id: KR5c0117_krp_003-bkkpn5}
   - {type: punctuation, offset: 1290, content: ), id: KR5c0117_krp_003-bkkpn6}
   - {type: 'kr:newline', offset: 1295, content: '
@@ -1512,6 +1514,7 @@ markers:
       ', id: KR5c0117_krp_003-bkkkrnewl234}
   - {type: line-break, offset: 3142, content: '', id: KR5c0117_HFL_003-011b04}
   - {type: punctuation, offset: 3148, content: (, id: KR5c0117_krp_003-bkkpn7}
+  - {type: voice, offset: 3148, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 3150, content: /, id: KR5c0117_krp_003-bkkpn8}
   - {type: punctuation, offset: 3152, content: ), id: KR5c0117_krp_003-bkkpn9}
   - {type: variant, offset: 3154, length: 1, content: 謂, CK-KZ: 以}
@@ -2088,12 +2091,14 @@ markers:
   - {type: variant, offset: 4186, length: 1, content: 一, CK-KZ: 又}
   - {type: variant, offset: 4186, length: 1, content: 一, CK-KZ-jye: 又}
   - {type: variant, offset: 4186, length: 1, content: 一, YP-C: 又}
+  - {type: voice, offset: 4186, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 4188, content: /, id: KR5c0117_krp_003-bkkpn11}
   - {type: punctuation, offset: 4190, content: ), id: KR5c0117_krp_003-bkkpn12}
   - {type: punctuation, offset: 4195, content: (, id: KR5c0117_krp_003-bkkpn13}
   - {type: variant, offset: 4195, length: 1, content: 一, CK-KZ: 又}
   - {type: variant, offset: 4195, length: 1, content: 一, CK-KZ-jye: 又}
   - {type: variant, offset: 4195, length: 1, content: 一, YP-C: 又}
+  - {type: voice, offset: 4195, length: 4, name: note, id: n5}
   - {type: punctuation, offset: 4197, content: /, id: KR5c0117_krp_003-bkkpn14}
   - {type: punctuation, offset: 4199, content: ), id: KR5c0117_krp_003-bkkpn15}
   - {type: 'kr:newline', offset: 4199, content: '
@@ -2245,4 +2250,4 @@ markers:
 
       ', id: KR5c0117_krp_003-bkkkrnewl329}
   back: []
-hash: sha256:a68c84fe04fdfe0066598abab814921b867789fc31799e980a1e48f4ead2169d
+hash: sha256:1f46c63f65f983fa73f2beb045e07f839ea3ec26226f97c7c24b07466b39c776

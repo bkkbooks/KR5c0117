@@ -32,6 +32,7 @@ markers:
   - {type: line-break, offset: 7, content: '', id: KR5c0117_HFL_001-001a03}
   - {type: indent, offset: 7, content: 　　, id: KR5c0117_krp_001-bkkind2}
   - {type: punctuation, offset: 10, content: (, id: KR5c0117_krp_001-bkkpn1}
+  - {type: voice, offset: 10, length: 9, name: note, id: n1}
   - {type: punctuation, offset: 15, content: /, id: KR5c0117_krp_001-bkkpn2}
   - {type: punctuation, offset: 19, content: ), id: KR5c0117_krp_001-bkkpn3}
   - {type: 'kr:newline', offset: 19, content: '
@@ -1269,6 +1270,7 @@ markers:
   - {type: variant, offset: 2643, length: 4, content: 關尹子曰, CK-KZ-jye: ''}
   - {type: variant, offset: 2643, length: 4, content: 關尹子曰, YP-C: ''}
   - {type: punctuation, offset: 2649, content: (, id: KR5c0117_krp_001-bkkpn4}
+  - {type: voice, offset: 2649, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 2651, content: /, id: KR5c0117_krp_001-bkkpn5}
   - {type: punctuation, offset: 2653, content: ), id: KR5c0117_krp_001-bkkpn6}
   - {type: variant, offset: 2660, length: 1, content: 尚, CK-KZ: 尙}
@@ -2220,6 +2222,7 @@ markers:
   - {type: variant, offset: 4389, length: 4, content: 習樂一作, CK-KZ-jye: ''}
   - {type: variant, offset: 4389, length: 4, content: 習樂一作, YP-C: ''}
   - {type: punctuation, offset: 4391, content: (, id: KR5c0117_krp_001-bkkpn7}
+  - {type: voice, offset: 4391, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 4393, content: /, id: KR5c0117_krp_001-bkkpn8}
   - {type: substitution, offset: 4394, original: 弈, replacement: 奕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20422}}
   - {type: punctuation, offset: 4395, content: ), id: KR5c0117_krp_001-bkkpn9}
@@ -2936,4 +2939,4 @@ markers:
       ', id: KR5c0117_krp_001-bkkkrnewl419}
   - {type: variant, offset: 5501, length: 0, content: '', CK-KZ-jye: 日死者也又何所歉而借於聖又何所恃而賈於愚哉箋一宇}
   back: []
-hash: sha256:5682c4bb31c1e7f5bbc3041b8e6afdeffbd148aae91cb912b0aa89f5e18f7764
+hash: sha256:9e56b868c69e0f19cf456af396f8d51b9abfaab26af211f6271767abe8d71ff8

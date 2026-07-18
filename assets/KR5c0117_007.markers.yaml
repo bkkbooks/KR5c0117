@@ -30,6 +30,7 @@ markers:
   - {type: page-break, offset: 7, content: '', id: KR5c0117_CK-KZ_06p021b}
   - {type: page-break, offset: 7, content: '', id: KR5c0117_CK-KZ_06p022a}
   - {type: punctuation, offset: 10, content: (, id: KR5c0117_krp_007-bkkpn1}
+  - {type: voice, offset: 10, length: 6, name: note, id: n1}
   - {type: variant, offset: 11, length: 0, content: '', CK-KZ: 者}
   - {type: variant, offset: 11, length: 0, content: '', CK-KZ-jye: 者}
   - {type: variant, offset: 11, length: 0, content: '', YP-C: 者}
@@ -1150,6 +1151,7 @@ markers:
   - {type: variant, offset: 2094, length: 11, content: 億者謂萬萬爲億關尹子曰, CK-KZ: ''}
   - {type: variant, offset: 2094, length: 11, content: 億者謂萬萬爲億關尹子曰, CK-KZ-jye: ''}
   - {type: variant, offset: 2094, length: 11, content: 億者謂萬萬爲億關尹子曰, YP-C: ''}
+  - {type: voice, offset: 2094, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 2098, content: /, id: KR5c0117_krp_007-bkkpn5}
   - {type: substitution, offset: 2099, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 2101, content: ), id: KR5c0117_krp_007-bkkpn6}
@@ -2372,4 +2374,4 @@ markers:
       ', id: KR5c0117_krp_007-bkkkrnewl307}
   - {type: variant, offset: 4058, length: 0, content: '', CK-KZ-jye: 釜}
   back: []
-hash: sha256:30a45008a0e05066bad5d00316ca78e10a5fa14afec2f059830fa9d7bed2ab36
+hash: sha256:e323bb34385e764e933d31a96ad96a9f96482de6835265dc930406a010140a15
